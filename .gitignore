@@ -2,3 +2,4 @@ main
 *.o
 *.dSYM
 *.swp
+out
